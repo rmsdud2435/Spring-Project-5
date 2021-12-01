@@ -14,4 +14,5 @@
 - git remote add origin [remote git address]
 - git branch -M main
 - git push -u origin main
+
 **주의:** 현재 Github의 인증 방식이 토큰 방식으로 변경되었기 때문에 인증 시 패스워드가 아닌 토큰 주소를 복사하여 비밀번호 대신 입력하셔야 합니다. 
